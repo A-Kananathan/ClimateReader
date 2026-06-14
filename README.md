@@ -23,6 +23,7 @@ This is a small project, where I build a climate monitoring device based on an E
 |SH1107 OLED Display            |128x128 display                           |
 |4x AA battery holder           |Power supply                              |
 |DC-DC Step-Down Buck Converter |Voltage regulator                         |
+|Casing                         |Custom 3D printed casing                  |
 
 ---
 
