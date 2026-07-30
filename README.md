@@ -1,6 +1,16 @@
 # ESP32-C3 Climate Reader
 This is a small project, where I build a climate monitoring device based on an ESP32-C3 Mini and a BME680. The system measures environmental conditions such as temperature, humidity and air pressure, displaying the collected data in real time on an OLED screen.
 
+### Current Status
+- [x] Firmware implementation completed
+- [x] Sensor driver implemented
+- [x] OLED interface implemented
+- [x] Environmental data acquisition working
+- [x] 3D printed enclosure
+- [ ] Final hardware assembly
+- [ ] Project photos
+- [ ] Wiring schematic
+
 ---
 
 ## Features
